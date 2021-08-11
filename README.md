@@ -21,3 +21,6 @@ Strafebewegung<br>
 Bewegung: WASD <br>
 Interaktion: E <br>
 Taschenlampe: F <br>
+
+Dieses Repo/Fork ist nur eine Kopie für die Abgabe, das Repo in dem wir gearbeitet haben, finden Sie unter
+https://github.com/grotelambers/CGA2021
